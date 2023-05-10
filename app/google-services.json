@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "176121087326",
+    "project_id": "instrument-sell-prj",
+    "storage_bucket": "instrument-sell-prj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176121087326:android:ccc8840bd7dd3b900fbbcf",
+        "android_client_info": {
+          "package_name": "com.example.projectbanhang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176121087326-6cnga8qod6e5cqj7923qjdvdho1u3dvk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMkvzk15OhB3IlE2291n_o8LK69nGI0gk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176121087326-6cnga8qod6e5cqj7923qjdvdho1u3dvk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

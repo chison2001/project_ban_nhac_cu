@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_marginTop="5dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <Button
+        android:backgroundTint="#fff"
+        android:id="@+id/btnupdate"
+        android:textColor="#000"
+        android:gravity="center"
+        android:textSize="18sp"
+        android:text="Cập nhật sản phẩm"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <View
+        android:layout_marginTop="5dp"
+        android:background="@android:color/darker_gray"
+        android:layout_width="match_parent"
+        android:layout_height="1dp" />
+    <Button
+        android:backgroundTint="#fff"
+        android:id="@+id/btndel"
+        android:textColor="#000"
+        android:gravity="center"
+        android:textSize="18sp"
+        android:text="Xoá sản phẩm"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+</LinearLayout>
